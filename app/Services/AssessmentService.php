@@ -1,0 +1,88 @@
+<?php
+
+namespace App\Services;
+
+use Illuminate\Support\Facades\Http;
+
+class AssessmentService
+{
+    public function askAllModels(string $prompt): array
+    {
+        return [
+            'claude' => $this->askClaude($prompt),
+            'gpt4o' => $this->askOpenAI($prompt),
+           // 'deepseek' => $this->askDeepSeek($prompt),
+        ];
+    }
+
+    protected function askOpenAI(string $prompt): string
+    {
+        $response = Http::withToken(env('OPENAI_API_KEY'))->post('https://api.openai.com/v1/chat/completions', [
+            'model' => 'gpt-4o',
+            'messages' => [['role' => 'user', 'content' => $prompt]],
+        ]);
+
+        return $response['choices'][0]['message']['content'] ?? '❌ GPT-4o failed';
+    }
+
+    protected function askClaude(string $prompt): string
+    {
+        try {
+            $response = Http::withHeaders([
+                'x-api-key' => env('ANTHROPIC_API_KEY'),
+                'anthropic-version' => '2023-06-01',
+                'Content-Type' => 'application/json',
+            ])->post('https://api.anthropic.com/v1/messages', [
+                'model' => 'claude-3-7-sonnet-20250219', // Latest model
+                'max_tokens' => 1024,
+                'messages' => [
+                    [
+                        'role' => 'user', 
+                        'content' => $prompt
+                    ]
+                ],
+            ]);
+    
+            if (!$response->successful()) {
+                \Log::error('Claude API Error: ' . $response->body());
+                return '❌ Claude API request failed: ' . $response->status();
+            }
+    
+            $data = $response->json();
+            return $data['content'][0]['text'] ?? '❌ No content returned';
+            
+        } catch (\Exception $e) {
+            \Log::error('Claude API Exception: ' . $e->getMessage());
+            return '❌ Claude failed: ' . $e->getMessage();
+        }
+    }
+
+    protected function askDeepSeek(string $prompt): string
+    {
+        try {
+            $response = Http::withOptions([
+                'connect_timeout' => 10, // 10 seconds to establish connection
+                'timeout' => 120,         // 60 seconds total timeout
+            ])
+            ->withToken(env('DEEPSEEK_API_KEY'))
+            ->post('https://api.deepseek.com/v1/chat/completions', [
+                'model' => 'deepseek-chat',
+                'messages' => [
+                    ['role' => 'user', 'content' => $prompt]
+                ],
+            ]);
+    
+            $json = $response->json();
+    
+            if (isset($json['choices'][0]['message']['content'])) {
+                return $json['choices'][0]['message']['content'];
+            } else {
+                \Log::error("DeepSeek API returned unexpected response", ['response' => $json]);
+                return '❌ DeepSeek returned an unexpected response format.';
+            }
+        } catch (\Exception $e) {
+            \Log::error("DeepSeek API request failed: " . $e->getMessage());
+            return '❌ DeepSeek API error: ' . $e->getMessage();
+        }
+    }
+}

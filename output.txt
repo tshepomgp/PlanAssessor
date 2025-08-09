@@ -1,0 +1,550 @@
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+
+ISBN 978-0-626-41050-6
+
+Edition 3.1
+
+SOUTH AFRICAN NATIONAL STANDARD
+
+The application of the National Building
+Regulations
+Part C: Dimensions
+
+WARNING
+This document references other
+documents normatively.
+
+Published by the South African Bureau of Standards
+1 Dr Lategan Road Groenkloof  Private Bag X191 Pretoria 0001
+Tel: +27 12 428 7911 Fax: +27 12 344 1568
+www.sabs.co.za
+ SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+This page has been left blank intentionally
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+COPYRIGHT PROTECTED DOCUMENT
+
+© SABS
+In terms of the Standards Act 8 of 2008, the copyright in all South African National Standards or any
+other publications published by the SABS Standards Division, vests in the SABS. Any use of
+South African National Standards is limited to use specifically prescribed by the SABS. In the case of a
+South African National Standard based on an international standard, ownership of the copyright vests in
+the organization from which the SABS adopted the standard, whether it be under licence or
+membership agreement. The SABS is obliged to protect such copyright and is authorized to make the
+relevant international organization aware of any misuse thereof. Unless exemption has been granted,
+no extract or full text of any South African National Standard may be copied, reproduced, stored in a
+retrieval system or transmitted in any form or by any means without prior written permission from the
+SABS Standards Division. This does not preclude the free use, in the course of implementing the
+standard, of necessary details such as symbols, and size, type or grade designations. If these details
+are to be used for any purpose other than implementation, prior written permission must be obtained.
+Details, advice and limitations of use can be obtained from the Manager: Standards Sales and
+Information Services. Tel: +27 (0) 12 428 6883 email: sales@sabs.co.za
+SABS – Standards Division
+The objective of the SABS Standards Division is to develop, promote and maintain South African
+National Standards. This objective is incorporated in the Standards Act, 2008 (Act No. 8 of 2008).
+The SABS continuously strives to improve the quality of its products and services and would therefore
+be grateful if anyone finding an inaccuracy or ambiguity while using this standard would inform the
+secretary of the technical committee responsible, the identity of which can be found in the foreword.
+Buying Standards
+Contact the Sales Office for South African and international standards, which are available in both
+electronic and hard copy format. Tel: +27 (0) 12 428 6883 email: sales@sabs.co.za
+South African National
+www.store.sabs.co.za
+
+Standards
+
+are
+
+also
+
+available
+
+online
+
+from
+
+the
+
+SABS
+
+Webstore
+
+Information on Standards
+SABS Customer Services provide comprehensive standards-related information on national, regional
+and international standards. Tel: +27 (0) 12 428 7911 / 0861 27 7227 email: info@sabs.co.za
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+Edition 3.1
+Table of changes
+Change No.
+Date
+Amdt. 1
+
+2015
+
+Scope
+Amended to delete the annex on the dimensions (annex A) and the
+annex on the differences in performance between category 1
+buildings and non-category 1 buildings (annex C), and to delete all
+references to these annexes.
+
+Acknowledgement
+The South African Bureau of Standards wishes to acknowledge the work of the South African
+Institution of Civil Engineering in updating this document.
+
+Foreword
+This South African standard was prepared by National Committee SABS/TC 060, Standards which
+address the National Building Regulations (NBRS), in accordance with procedures of the
+South African Bureau of Standards, in compliance with annex 3 of the WTO/TBT agreement.
+This document was approved for publication in May 2016.
+This document supersedes SANS 10400-C:2010 (edition 3).
+A vertical line in the margin shows where the text has been technically modified by amendment
+No. 1.
+This document is referenced in the Disaster Management Act, 2002 (Act No. 57 of 2002).
+Compliance with this document cannot confer immunity from legal obligations.
+Reaffirmed and reprinted in September 2022.
+This document will be reviewed every five years
+and be reaffirmed, amended, revised or withdrawn.
+
+Compliance with the requirements of this document will be deemed to be compliance with the
+requirements of part C of the National Building Regulations, issued in terms of the National Building
+Regulations and Building Standards Act, 1977 (Act No. 103 of 1977).
+SANS 10400 consists of the following parts, under the general title The application of the National
+Building Regulations:
+Part A: General principles and requirements.
+Part B: Structural design.
+Part C: Dimensions.
+Part D: Public safety.
+Part F: Site operations.
+Part G: Excavations.
+Part H: Foundations.
+Part J: Floors.
+Part K: Walls.
+© SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+Edition 3.1
+
+Foreword (concluded)
+Part L: Roofs.
+Part M: Stairway.
+Part N: Glazing.
+Part O: Lighting and ventilation.
+Part P: Drainage.
+Part Q: Non-water-borne means of sanitary disposal.
+Part R: Stormwater disposal.
+Part S: Facilities for persons with disabilities.
+Part T: Fire protection.
+Part V: Space heating.
+Part W: Fire installation.
+Part X: Environmental sustainability – Part XA: Energy usage in buildings.
+Annex B is for information only.
+
+© SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+1
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+Edition 3.1
+
+Contents
+Page
+Acknowledgement
+Foreword
+1 Scope .....................................................................................................................................
+
+3
+
+2 Normative references .............................................................................................................
+
+3
+
+3 Definitions ..............................................................................................................................
+
+3
+
+4 Requirements ..........................................................................................................................
+
+5
+
+4.1
+4.2
+4.3
+4.4
+
+General ........................................................................................................................
+Plan dimensions ...........................................................................................................
+Room height .................................................................................................................
+Floor area ......................................................................................................................
+
+5
+5
+6
+7
+
+Annex A Deleted by amendment No. 1.
+Annex B (informative) Commentary on this part of SANS 10400 .............................................
+
+8
+
+Annex C Deleted by amendment No. 1.
+Bibliography ...............................................................................................................................
+
+2
+
+© SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+9
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+Edition 3.1
+
+The application of the National Building Regulations
+Part C:
+Dimensions
+
+1 Scope
+This part of SANS 10400 provides deemed-to-satisfy requirements for compliance with part C
+(Dimensions) of the National Building Regulations.
+NOTE Annex B contains a commentary on this part of SANS 10400.
+
+Amdt 1
+
+2 Normative references
+The following referenced documents are indispensable for the application of this document. For
+dated references, only the edition cited applies. For undated references, the latest edition of the
+referenced document (including any amendments) applies. Information on currently valid national
+and international standards can be obtained from the South African Bureau of Standards.
+SANS 10400-A, The application of the National Building Regulations – Part A: General principles
+and requirements.
+
+3 Definitions
+For the purposes of this document, the definitions given in SANS 10400-A (some of which are
+repeated for convenience) and the following apply.
+3.1
+category 1 building
+building which
+a) is designated as being of class A3, A4, F2, G1, H2, H3, or H4 occupancy (see Regulation A20 in
+SANS 10400-A),
+b) has no basements,
+c) has a maximum length of 6,0 m between intersecting walls or members providing lateral support,
+and
+d) has a floor area that does not exceed 80 m²
+NOTE 1 Deleted by amendment No. 1.
+NOTE 2 A building may be classified as a category 1 building for the purposes of one or more parts of
+SANS 10400. Additional limitations may accordingly be imposed on category 1 buildings. For example, a
+category 1 building in terms of SANS 10400-T (Fire protection) will be restricted to a single storey.
+
+© SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+3
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+Edition 3.1
+NOTE 3 Fire requirements for category 1 buildings are based on occupants escaping quickly from buildings.
+The design population for occupancies as set out in table 2 of part A of the Regulations (see SANS 10400-A)
+should therefore not be exceeded.
+
+3.2
+deemed-to-satisfy requirement
+non-mandatory requirement, the compliance with which ensures compliance with a functional
+regulation
+3.3
+dwelling house
+single dwelling unit and any garage and other domestic outbuildings thereto, situated on its own site
+3.4
+dwelling unit
+unit containing one or more habitable rooms and provided with adequate sanitary and cooking
+facilities
+3.5
+floor area
+total area of a building, or a storey thereof, enclosed within its external walls, exclusive of the area
+occupied by any lift shaft
+3.6
+functional regulation
+regulation that sets out in qualitative terms what is required of a building or building element or
+building component in respect of a particular characteristic, without specifying the method of
+construction, dimensions or materials to be used
+3.7
+habitable room
+room used or designed, erected, adapted or intended to be used by persons for sleeping in, living
+in, the preparation or consumption of food or drink, the transaction of business, the rendering of
+professional services, the manufacture, processing or sale of goods, the performance of work, the
+gathering together of persons, or for recreational purposes
+3.8
+partition
+interior construction less than one storey in height, and which is generally of a light construction and
+demountable
+3.9
+temporary building
+building (excluding a builder’s shed) that is so declared by the owner and that is being used, or is to
+be used, for a specified purpose for a specified limited period of time
+
+4
+
+© SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+Edition 3.1
+
+4 Requirements
+4.1 General
+The functional regulation contained in part C of the National Building Regulations shall be deemed
+to be satisfied where the dimensions of any room or space comply with the requirements of 4.2, 4.3
+and 4.4.
+
+4.2 Plan dimensions
+4.2.1 The plan dimensions of a room or space shall be the horizontal dimensions between
+unplastered wall surfaces.
+
+4.2.2 A floor area shall be based upon the plan dimensions but shall not include any area occupied
+by a built-in cabinet or cupboard or any dividing wall or partition erected in terms of 4.2.4 (see
+figure 1).
+
+Figure 1 — Measurement of floor plan area
+
+4.2.3 The floor area of a room contemplated in column 2 of table 1 shall be not less than that
+prescribed for such room in column 3 of table 1.
+
+Table 1 — Room area
+1
+Type of occupancy
+All occupancies
+B, D or J
+
+2
+
+3
+
+Room
+
+Minimum plan area
+
+Any habitable
+room other than a
+6 m² with no linear dimension less than 2 m
+kitchen, scullery or
+laundry
+Change rooms and Population 1-15: 0,8 m² per person but not less than 6 m²
+dining rooms
+Population 16-100: 0,6 m² per person but not less than 12 m²
+Population over 100: 0,5 m² per person but not less than 60 m²
+
+© SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+5
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+Edition 3.1
+4.2.4 Two or more spaces shall be deemed to be one room if any dividing wall or partition,
+
+including any door, erected between such spaces occupies less than 60 % of the area of the
+separating plane (see figure 2).
+
+The area of wall E, F, G, C shall be less than 60 % of the area of the plane A, B, C, D.
+
+Figure 2 — Dividing walls in single rooms
+
+4.3 Room height
+4.3.1 The height of any room or space contemplated in column 1 of table 2 shall be not less than
+that prescribed for such room or space in column 2 of table 2 and shall be the vertical dimension
+from the top of the finished floor to
+a) the underside of the ceiling,
+b) the underside of the roof covering where there is no ceiling, or
+c) the underside of any structural members where such structural members project below such a
+ceiling or roof covering and the plan area of such projections exceeds 30 % of the plan area of
+the room.
+
+4.3.2 Notwithstanding the requirements contained in table 2, where any structural member
+
+projects below the level of the ceiling or, where there is no ceiling, below the level of the roof
+covering, the height of such projection shall be not less than 2,1 m (see figure 3).
+Table 2 ― Rooms and their dimensions
+
+6
+
+1
+
+2
+
+Room or space
+
+Minimum height
+
+Bedroom
+
+2,4 m above a floor area of at least 6 m² with a clear height of at
+least 1,8 m at any point more than 0,75 m from the edge of the
+floor space
+
+Any other habitable room in a dwelling
+house or a dwelling unit
+
+2,4 m above a minimum of 70 % of the floor area, and not less
+than 2,1 m above the remaining floor area
+
+All habitable rooms other than those
+listed
+
+2,4 m
+
+Passage or entrance hall
+
+2,1 m
+
+Bathroom, shower-room, laundry or
+room containing a toilet pan
+
+2,1 m above any area where a person would normally be in a
+standing position
+
+Open mezzanine floor which has an
+area not exceeding 25 % of the area
+of the floor immediately below it
+
+2,1 m above and below the mezzanine floor
+
+© SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+Edition 3.1
+
+NOTE This height would normally be taken at level 2, but if the sum of the plan areas of ribs A, B, C, D, E, F
+and G is greater than 30 % of the total area of the room, the ceiling height should be measured to level 1.
+
+Figure 3 ― Interpretation of minimum floor to ceiling height (see 4.3.2)
+
+4.4 Floor area
+The overall plan area of any dwelling house shall be not less than
+a) 15 m2 in the case of a temporary building,
+b) 27 m2 in the case of permanent category 1 buildings, or
+c) 30 m2 in the case of any other permanent building.
+NOTE With the present tendency towards smaller sites it is likely that many more houses of a size much
+smaller than has been common in the past will be built. In considering the very small permanent building it
+should be remembered that size cannot be equated to quality and a small house will not therefore
+automatically detract from the value of surrounding larger houses.
+
+© SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+7
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+Edition 3.1
+
+Annex A
+Deleted by amendment No. 1.
+
+Annex B
+(informative)
+
+Commentary on this part of SANS 10400
+The plan areas given are very small but this is necessary in the interests of providing affordable
+housing. In the case of certain types of self-help housing, such as the “core house”, the first stage
+will, by definition, be small and will seldom consist of more than a single room plus toilet facilities.
+The fact that such a building would be regarded as a temporary building should ensure that it will
+eventually progress to something more reasonable in size.
+Since a minimum size for habitable rooms is specified in 4.2.3, the number of rooms in a dwelling
+house will, to some extent, influence the overall area of the building. In this context, the deemed-tosatisfy requirements do not indicate whether a habitable room should be of greater size than the
+minimum given if such a room is to be used for multiple purposes. For practical, if not legal, reasons
+this would obviously be desirable. In the case of a temporary house that consists of one habitable
+room it is assumed that this will be used for eating, sleeping and cooking, as well as being a general
+living room.
+
+Annex C
+Deleted by amendment No. 1.
+
+8
+
+© SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+© SABS. This standard may reside on internal network or intranet on a Single Site only and is exclusively available to South African Council for the Architectural Pr
+in accordance with copyright exploitation agreement no. 014/009/25-215, valid until 2026-05-31. The single-site licence allows South African Council for the
+Architectural Pr to make five (5) printouts of the standard and will expire after one year unless renewed.
+
+SANS 10400-C:2016
+Edition 3.1
+
+Bibliography
+SANS 10400-T, The application of the National Building Regulations – Part T: Fire protection.
+
+______________
+
+© SABS
+
+This product is copyrighted by SABS, 1 Dr Lategan Road, Groenkloof, 0181, South Africa. All rights reserved.
+
+9
+
+
