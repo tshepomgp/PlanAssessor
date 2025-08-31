@@ -44,16 +44,16 @@ class AssessmentService
             ]);
     
             if (!$response->successful()) {
-                \Log::error('SACAPSA-Ai-Model1 API Error: ' . $response->body());
-                return '❌ SACAPSA-Ai-Model1 API request failed: ' . $response->status();
+                \Log::error('Claude API Error: ' . $response->body());
+                return '❌ Claude API request failed: ' . $response->status();
             }
     
             $data = $response->json();
             return $data['content'][0]['text'] ?? '❌ No content returned';
             
         } catch (\Exception $e) {
-            \Log::error('SACAPSA-Ai-Model1 API Exception: ' . $e->getMessage());
-            return '❌ SACAP-Ai-Model1 failed: ' . $e->getMessage();
+            \Log::error('Claude API Exception: ' . $e->getMessage());
+            return '❌ Claude failed: ' . $e->getMessage();
         }
     }
 

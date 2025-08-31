@@ -2,6 +2,7 @@
 
 namespace App\Jobs;
 
+use App\Models\Plan;
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
 use Illuminate\Foundation\Bus\Dispatchable;
@@ -18,9 +19,9 @@ class AssessPlanJob implements ShouldQueue
 
     public $plan;
 
-    public function __construct(\App\Models\Plan $plan)
+public function __construct(Plan|int $plan)
     {
-        $this->plan = $plan;
+	    $this->plan = is_int($plan) ? Plan::findOrFail($plan) : $plan;
     }
 
     protected function loadSansReferences(): string
@@ -151,7 +152,7 @@ EOT;
 
     private function formatCombinedAssessment(array $results): string
     {
-        $timestamp = now()->format('Y-m-d H:i:s');
+	    $timestamp = now()->setTimezone('Africa/Johannesburg')->format('Y-m-d H:i:s');
         
         $output = <<<EOT
 # 🏗️ BUILDING PLAN COMPLIANCE ASSESSMENT REPORT
@@ -164,13 +165,13 @@ EOT;
 
 ## 🤖 AI ASSESSMENT #1 - SACAPSA AI-1
 
-{$results['claude']}
+{$results['SACAPSA-Ai-Model1']}
 
 ---
 
 ## 🤖 AI ASSESSMENT #2 - SACAPSA AI-2
 
-{$results['gpt4o']} 
+{$results['SACAPSA-Ai-Model2']} 
 
 ---
 
